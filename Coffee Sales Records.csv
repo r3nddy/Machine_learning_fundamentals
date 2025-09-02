@@ -1,0 +1,301 @@
+Tanggal,Nama_Kopi,Metode_Penyajian,Ukuran,Jumlah,Harga_per_Cup,Total
+2025-07-17,Kopi Susu Gula Aren,Kopi Susu,Large,10,18000,180000
+2025-07-01,Kopi Latte,Cold,Medium,26,25000,650000
+2025-07-27,Kopi Latte,Cold,Medium,12,22000,264000
+2025-07-14,Arabika Toraja,Cold,Large,19,22000,418000
+2025-07-03,Kopi Latte,Kopi Susu,Medium,18,22000,396000
+2025-07-22,Arabika Aceh Gayo,Cold,Small,21,15000,315000
+2025-07-04,Arabika Aceh Gayo,Espresso,Large,39,20000,780000
+2025-07-02,Robusta Bali,Cold,Small,45,25000,1125000
+2025-07-06,Robusta Lampung,Espresso,Medium,31,15000,465000
+2025-07-22,Kopi Espresso,Milk-Based,Large,45,20000,900000
+2025-07-09,Kopi Latte,Milk-Based,Medium,55,12000,660000
+2025-07-29,Arabika Toraja,Milk-Based,Medium,19,12000,228000
+2025-07-21,Kopi Espresso,Kopi Susu,Large,22,15000,330000
+2025-07-21,Arabika Aceh Gayo,Cold,Medium,16,12000,192000
+2025-07-20,Cappuccino,Tubruk,Medium,32,15000,480000
+2025-07-02,Arabika Aceh Gayo,Kopi Susu,Large,19,20000,380000
+2025-07-07,Kopi Susu Gula Aren,Kopi Susu,Medium,33,25000,825000
+2025-07-30,Kopi Susu Gula Aren,Milk-Based,Medium,28,20000,560000
+2025-07-02,Arabika Toraja,Espresso,Small,53,20000,1060000
+2025-07-04,Kopi Espresso,Milk-Based,Large,17,15000,255000
+2025-07-26,Arabika Toraja,Milk-Based,Large,41,25000,1025000
+2025-07-15,Kopi Susu Gula Aren,Manual Brew,Small,34,25000,850000
+2025-07-19,Kopi Tubruk,Cold,Small,44,18000,792000
+2025-07-01,Kopi Espresso,Espresso,Medium,51,15000,765000
+2025-07-10,Robusta Lampung,Kopi Susu,Medium,49,22000,1078000
+2025-07-13,Arabika Toraja,Manual Brew,Medium,46,18000,828000
+2025-07-22,Cappuccino,Manual Brew,Medium,14,12000,168000
+2025-07-08,Robusta Bali,Kopi Susu,Large,23,22000,506000
+2025-07-24,Kopi Latte,Espresso,Medium,48,18000,864000
+2025-07-06,Arabika Aceh Gayo,Milk-Based,Small,40,18000,720000
+2025-07-28,Kopi Latte,Espresso,Medium,23,12000,276000
+2025-07-08,Robusta Bali,Manual Brew,Small,57,12000,684000
+2025-07-22,Cappuccino,Manual Brew,Small,14,12000,168000
+2025-07-16,Arabika Aceh Gayo,Kopi Susu,Small,24,22000,528000
+2025-07-09,Robusta Bali,Cold,Large,11,25000,275000
+2025-07-05,Robusta Lampung,Tubruk,Large,26,20000,520000
+2025-07-20,Arabika Aceh Gayo,Milk-Based,Large,12,20000,240000
+2025-07-16,Cold Brew,Espresso,Small,41,20000,820000
+2025-07-29,Kopi Tubruk,Manual Brew,Medium,24,20000,480000
+2025-07-03,Arabika Toraja,Kopi Susu,Large,59,22000,1298000
+2025-07-16,Kopi Espresso,Cold,Medium,47,18000,846000
+2025-07-28,Kopi Espresso,Tubruk,Small,47,25000,1175000
+2025-07-06,Robusta Lampung,Cold,Large,49,15000,735000
+2025-07-30,Cold Brew,Espresso,Large,52,22000,1144000
+2025-07-18,Robusta Bali,Milk-Based,Large,24,12000,288000
+2025-07-16,Kopi Susu Gula Aren,Milk-Based,Medium,12,20000,240000
+2025-07-01,Arabika Toraja,Manual Brew,Large,51,20000,1020000
+2025-07-26,Kopi Tubruk,Cold,Medium,18,25000,450000
+2025-07-25,Kopi Susu Gula Aren,Espresso,Large,16,15000,240000
+2025-07-16,Cappuccino,Milk-Based,Small,26,12000,312000
+2025-07-18,Kopi Latte,Kopi Susu,Medium,47,12000,564000
+2025-07-11,Kopi Latte,Cold,Large,12,12000,144000
+2025-07-27,Kopi Latte,Espresso,Medium,40,15000,600000
+2025-07-12,Cold Brew,Espresso,Large,30,22000,660000
+2025-07-11,Cold Brew,Tubruk,Small,25,20000,500000
+2025-07-14,Robusta Bali,Kopi Susu,Small,40,22000,880000
+2025-07-03,Kopi Latte,Tubruk,Medium,20,12000,240000
+2025-07-26,Cold Brew,Kopi Susu,Small,29,15000,435000
+2025-07-13,Robusta Bali,Manual Brew,Large,56,25000,1400000
+2025-07-14,Cappuccino,Espresso,Large,58,12000,696000
+2025-07-06,Cold Brew,Manual Brew,Large,56,12000,672000
+2025-07-25,Kopi Susu Gula Aren,Milk-Based,Large,20,18000,360000
+2025-07-11,Kopi Tubruk,Espresso,Small,14,22000,308000
+2025-07-25,Robusta Lampung,Manual Brew,Medium,10,22000,220000
+2025-07-24,Kopi Susu Gula Aren,Cold,Large,17,18000,306000
+2025-07-17,Kopi Susu Gula Aren,Milk-Based,Medium,50,25000,1250000
+2025-07-21,Cappuccino,Milk-Based,Medium,40,22000,880000
+2025-07-14,Kopi Susu Gula Aren,Espresso,Small,28,18000,504000
+2025-07-04,Kopi Tubruk,Cold,Small,50,22000,1100000
+2025-07-21,Kopi Tubruk,Espresso,Small,18,15000,270000
+2025-07-17,Kopi Espresso,Milk-Based,Large,20,20000,400000
+2025-07-14,Arabika Aceh Gayo,Milk-Based,Small,54,18000,972000
+2025-07-09,Kopi Susu Gula Aren,Tubruk,Large,32,20000,640000
+2025-07-17,Kopi Susu Gula Aren,Tubruk,Medium,17,12000,204000
+2025-07-15,Kopi Espresso,Kopi Susu,Medium,40,12000,480000
+2025-07-15,Cold Brew,Milk-Based,Medium,60,22000,1320000
+2025-07-17,Robusta Bali,Kopi Susu,Small,39,12000,468000
+2025-07-24,Kopi Tubruk,Espresso,Large,38,20000,760000
+2025-07-24,Cappuccino,Espresso,Large,14,15000,210000
+2025-07-07,Arabika Aceh Gayo,Espresso,Large,20,25000,500000
+2025-07-30,Cold Brew,Tubruk,Medium,46,25000,1150000
+2025-07-11,Arabika Toraja,Cold,Medium,15,12000,180000
+2025-07-04,Cappuccino,Manual Brew,Small,36,15000,540000
+2025-07-25,Cappuccino,Manual Brew,Small,12,15000,180000
+2025-07-27,Kopi Susu Gula Aren,Kopi Susu,Large,22,15000,330000
+2025-07-24,Kopi Latte,Tubruk,Small,50,20000,1000000
+2025-07-09,Kopi Tubruk,Espresso,Large,13,25000,325000
+2025-07-16,Arabika Toraja,Kopi Susu,Small,29,18000,522000
+2025-07-18,Kopi Espresso,Milk-Based,Medium,35,15000,525000
+2025-07-19,Cappuccino,Manual Brew,Large,51,18000,918000
+2025-07-28,Arabika Aceh Gayo,Espresso,Medium,42,20000,840000
+2025-07-25,Kopi Espresso,Espresso,Small,53,20000,1060000
+2025-07-23,Cappuccino,Milk-Based,Large,23,12000,276000
+2025-07-27,Kopi Espresso,Espresso,Large,45,22000,990000
+2025-07-15,Robusta Lampung,Manual Brew,Medium,26,25000,650000
+2025-07-28,Arabika Toraja,Manual Brew,Medium,10,25000,250000
+2025-07-30,Cappuccino,Manual Brew,Large,28,25000,700000
+2025-07-05,Arabika Aceh Gayo,Cold,Large,47,22000,1034000
+2025-07-30,Kopi Susu Gula Aren,Cold,Large,51,12000,612000
+2025-07-26,Robusta Bali,Cold,Small,38,18000,684000
+2025-07-18,Kopi Susu Gula Aren,Kopi Susu,Medium,17,20000,340000
+2025-07-27,Robusta Lampung,Cold,Small,41,18000,738000
+2025-07-15,Cold Brew,Cold,Small,55,15000,825000
+2025-07-14,Cappuccino,Cold,Medium,16,12000,192000
+2025-07-17,Arabika Toraja,Espresso,Large,48,20000,960000
+2025-07-27,Kopi Tubruk,Kopi Susu,Medium,54,22000,1188000
+2025-07-08,Arabika Aceh Gayo,Espresso,Small,44,20000,880000
+2025-07-27,Cold Brew,Cold,Medium,14,15000,210000
+2025-07-02,Cold Brew,Tubruk,Small,11,18000,198000
+2025-07-21,Robusta Lampung,Espresso,Medium,43,25000,1075000
+2025-07-12,Arabika Toraja,Tubruk,Medium,56,18000,1008000
+2025-07-16,Kopi Latte,Tubruk,Large,49,25000,1225000
+2025-07-04,Robusta Lampung,Milk-Based,Large,44,18000,792000
+2025-07-07,Kopi Tubruk,Kopi Susu,Small,22,12000,264000
+2025-07-24,Kopi Latte,Manual Brew,Medium,56,25000,1400000
+2025-07-29,Arabika Aceh Gayo,Cold,Large,57,20000,1140000
+2025-07-23,Kopi Susu Gula Aren,Tubruk,Large,28,25000,700000
+2025-07-05,Kopi Susu Gula Aren,Milk-Based,Large,23,12000,276000
+2025-07-07,Arabika Aceh Gayo,Cold,Medium,24,22000,528000
+2025-07-08,Arabika Aceh Gayo,Milk-Based,Large,22,22000,484000
+2025-07-20,Arabika Aceh Gayo,Manual Brew,Medium,55,18000,990000
+2025-07-30,Arabika Toraja,Kopi Susu,Medium,18,22000,396000
+2025-07-16,Arabika Toraja,Cold,Medium,48,25000,1200000
+2025-07-01,Arabika Toraja,Cold,Medium,53,15000,795000
+2025-07-22,Robusta Lampung,Cold,Small,17,15000,255000
+2025-07-24,Arabika Aceh Gayo,Kopi Susu,Small,45,12000,540000
+2025-07-02,Cappuccino,Espresso,Large,33,20000,660000
+2025-07-07,Arabika Toraja,Milk-Based,Large,30,12000,360000
+2025-07-09,Cappuccino,Manual Brew,Small,55,15000,825000
+2025-07-21,Robusta Lampung,Kopi Susu,Medium,30,25000,750000
+2025-07-26,Cold Brew,Tubruk,Small,34,18000,612000
+2025-07-08,Kopi Tubruk,Manual Brew,Large,54,20000,1080000
+2025-07-05,Cold Brew,Kopi Susu,Small,11,25000,275000
+2025-07-15,Robusta Bali,Kopi Susu,Small,32,15000,480000
+2025-07-27,Arabika Toraja,Manual Brew,Small,21,15000,315000
+2025-07-30,Kopi Susu Gula Aren,Cold,Small,16,18000,288000
+2025-07-11,Arabika Toraja,Cold,Large,29,18000,522000
+2025-07-26,Kopi Espresso,Tubruk,Medium,60,15000,900000
+2025-07-08,Kopi Susu Gula Aren,Tubruk,Medium,21,22000,462000
+2025-07-13,Kopi Tubruk,Milk-Based,Large,47,22000,1034000
+2025-07-20,Kopi Latte,Kopi Susu,Small,51,20000,1020000
+2025-07-11,Cappuccino,Manual Brew,Medium,52,22000,1144000
+2025-07-29,Cappuccino,Kopi Susu,Small,26,22000,572000
+2025-07-19,Kopi Espresso,Milk-Based,Large,59,22000,1298000
+2025-07-18,Robusta Lampung,Espresso,Large,41,22000,902000
+2025-07-23,Robusta Bali,Manual Brew,Medium,18,12000,216000
+2025-07-15,Robusta Lampung,Milk-Based,Large,27,15000,405000
+2025-07-01,Arabika Toraja,Kopi Susu,Large,24,12000,288000
+2025-07-07,Cold Brew,Espresso,Large,25,12000,300000
+2025-07-16,Kopi Espresso,Kopi Susu,Large,51,25000,1275000
+2025-07-03,Arabika Toraja,Milk-Based,Large,48,20000,960000
+2025-07-14,Kopi Latte,Kopi Susu,Large,49,18000,882000
+2025-07-04,Robusta Lampung,Kopi Susu,Medium,32,15000,480000
+2025-07-02,Kopi Tubruk,Manual Brew,Small,21,15000,315000
+2025-07-24,Kopi Susu Gula Aren,Espresso,Large,16,15000,240000
+2025-07-12,Arabika Aceh Gayo,Cold,Medium,35,25000,875000
+2025-07-07,Cold Brew,Cold,Small,37,22000,814000
+2025-07-22,Kopi Susu Gula Aren,Cold,Medium,35,22000,770000
+2025-07-26,Cappuccino,Tubruk,Small,36,12000,432000
+2025-07-18,Kopi Latte,Cold,Large,22,15000,330000
+2025-07-11,Robusta Bali,Kopi Susu,Large,51,12000,612000
+2025-07-13,Kopi Tubruk,Tubruk,Small,57,15000,855000
+2025-07-11,Kopi Tubruk,Tubruk,Large,54,15000,810000
+2025-07-17,Kopi Latte,Manual Brew,Medium,30,22000,660000
+2025-07-05,Cold Brew,Kopi Susu,Large,13,25000,325000
+2025-07-02,Kopi Susu Gula Aren,Tubruk,Medium,31,12000,372000
+2025-07-29,Robusta Bali,Cold,Medium,21,15000,315000
+2025-07-25,Robusta Lampung,Kopi Susu,Large,31,20000,620000
+2025-07-06,Kopi Tubruk,Cold,Medium,54,22000,1188000
+2025-07-22,Kopi Latte,Tubruk,Large,25,25000,625000
+2025-07-25,Kopi Tubruk,Tubruk,Large,47,18000,846000
+2025-07-05,Arabika Toraja,Espresso,Large,18,20000,360000
+2025-07-06,Robusta Lampung,Cold,Large,59,20000,1180000
+2025-07-28,Robusta Bali,Espresso,Large,38,15000,570000
+2025-07-30,Cappuccino,Milk-Based,Medium,58,22000,1276000
+2025-07-02,Robusta Bali,Kopi Susu,Large,39,20000,780000
+2025-07-05,Kopi Latte,Espresso,Large,15,12000,180000
+2025-07-01,Robusta Bali,Tubruk,Large,37,15000,555000
+2025-07-30,Cappuccino,Milk-Based,Large,41,20000,820000
+2025-07-29,Kopi Espresso,Milk-Based,Medium,24,12000,288000
+2025-07-22,Robusta Bali,Espresso,Small,47,20000,940000
+2025-07-26,Kopi Tubruk,Manual Brew,Large,40,20000,800000
+2025-07-09,Cold Brew,Cold,Large,47,20000,940000
+2025-07-03,Arabika Toraja,Tubruk,Large,43,15000,645000
+2025-07-04,Kopi Espresso,Manual Brew,Medium,32,18000,576000
+2025-07-04,Robusta Lampung,Cold,Small,23,25000,575000
+2025-07-28,Kopi Espresso,Tubruk,Small,33,20000,660000
+2025-07-04,Cold Brew,Kopi Susu,Medium,55,12000,660000
+2025-07-17,Cappuccino,Cold,Small,31,25000,775000
+2025-07-21,Arabika Aceh Gayo,Tubruk,Large,21,20000,420000
+2025-07-05,Kopi Espresso,Milk-Based,Small,20,20000,400000
+2025-07-21,Arabika Toraja,Tubruk,Large,58,18000,1044000
+2025-07-24,Robusta Bali,Milk-Based,Large,48,20000,960000
+2025-07-16,Kopi Tubruk,Cold,Small,21,25000,525000
+2025-07-15,Robusta Lampung,Tubruk,Medium,11,12000,132000
+2025-07-18,Kopi Tubruk,Espresso,Small,17,18000,306000
+2025-07-25,Cappuccino,Manual Brew,Small,39,12000,468000
+2025-07-28,Arabika Aceh Gayo,Kopi Susu,Small,35,15000,525000
+2025-07-23,Kopi Espresso,Manual Brew,Medium,19,18000,342000
+2025-07-16,Arabika Aceh Gayo,Kopi Susu,Large,42,18000,756000
+2025-07-14,Kopi Latte,Manual Brew,Large,45,15000,675000
+2025-07-01,Robusta Bali,Espresso,Large,33,12000,396000
+2025-07-20,Kopi Espresso,Tubruk,Large,36,15000,540000
+2025-07-21,Kopi Susu Gula Aren,Manual Brew,Medium,32,22000,704000
+2025-07-10,Kopi Latte,Espresso,Medium,28,15000,420000
+2025-07-30,Arabika Aceh Gayo,Cold,Small,37,15000,555000
+2025-07-10,Robusta Bali,Kopi Susu,Large,60,20000,1200000
+2025-07-08,Cappuccino,Kopi Susu,Large,31,15000,465000
+2025-07-20,Robusta Lampung,Milk-Based,Large,52,22000,1144000
+2025-07-19,Cappuccino,Tubruk,Medium,36,22000,792000
+2025-07-28,Robusta Bali,Milk-Based,Small,29,25000,725000
+2025-07-03,Cold Brew,Kopi Susu,Medium,30,12000,360000
+2025-07-16,Kopi Tubruk,Espresso,Small,58,22000,1276000
+2025-07-18,Kopi Tubruk,Cold,Small,35,18000,630000
+2025-07-29,Kopi Tubruk,Cold,Medium,55,18000,990000
+2025-07-06,Arabika Toraja,Manual Brew,Small,19,22000,418000
+2025-07-07,Arabika Toraja,Cold,Large,31,25000,775000
+2025-07-18,Robusta Bali,Milk-Based,Small,47,12000,564000
+2025-07-02,Robusta Lampung,Kopi Susu,Large,17,20000,340000
+2025-07-04,Arabika Aceh Gayo,Milk-Based,Large,45,18000,810000
+2025-07-08,Kopi Susu Gula Aren,Kopi Susu,Large,17,20000,340000
+2025-07-06,Robusta Bali,Manual Brew,Large,42,15000,630000
+2025-07-16,Kopi Espresso,Espresso,Small,12,25000,300000
+2025-07-02,Cappuccino,Manual Brew,Medium,30,15000,450000
+2025-07-12,Arabika Aceh Gayo,Manual Brew,Large,25,25000,625000
+2025-07-21,Kopi Espresso,Cold,Medium,45,25000,1125000
+2025-07-02,Robusta Bali,Cold,Small,55,25000,1375000
+2025-07-02,Kopi Susu Gula Aren,Kopi Susu,Small,18,25000,450000
+2025-07-23,Robusta Lampung,Milk-Based,Medium,54,22000,1188000
+2025-07-23,Robusta Lampung,Cold,Medium,29,18000,522000
+2025-07-27,Kopi Latte,Milk-Based,Small,24,20000,480000
+2025-07-20,Cold Brew,Kopi Susu,Medium,51,18000,918000
+2025-07-10,Kopi Tubruk,Espresso,Large,13,22000,286000
+2025-07-16,Robusta Bali,Tubruk,Large,23,15000,345000
+2025-07-22,Robusta Bali,Kopi Susu,Small,23,22000,506000
+2025-07-05,Kopi Tubruk,Espresso,Medium,16,12000,192000
+2025-07-16,Arabika Aceh Gayo,Espresso,Medium,47,25000,1175000
+2025-07-06,Robusta Bali,Kopi Susu,Small,32,22000,704000
+2025-07-23,Robusta Lampung,Cold,Medium,41,22000,902000
+2025-07-25,Cold Brew,Tubruk,Large,35,12000,420000
+2025-07-21,Cold Brew,Tubruk,Small,18,18000,324000
+2025-07-25,Arabika Toraja,Kopi Susu,Large,12,22000,264000
+2025-07-06,Arabika Toraja,Manual Brew,Large,43,15000,645000
+2025-07-17,Kopi Tubruk,Kopi Susu,Medium,51,20000,1020000
+2025-07-19,Kopi Espresso,Tubruk,Medium,27,20000,540000
+2025-07-15,Robusta Lampung,Tubruk,Medium,32,18000,576000
+2025-07-11,Arabika Aceh Gayo,Milk-Based,Small,27,18000,486000
+2025-07-09,Arabika Toraja,Espresso,Small,24,18000,432000
+2025-07-11,Kopi Espresso,Cold,Medium,36,22000,792000
+2025-07-20,Kopi Latte,Espresso,Small,20,15000,300000
+2025-07-07,Kopi Susu Gula Aren,Manual Brew,Small,52,20000,1040000
+2025-07-24,Kopi Susu Gula Aren,Cold,Small,34,12000,408000
+2025-07-18,Kopi Tubruk,Cold,Medium,21,18000,378000
+2025-07-17,Cold Brew,Tubruk,Small,24,22000,528000
+2025-07-21,Kopi Latte,Espresso,Large,26,12000,312000
+2025-07-20,Arabika Aceh Gayo,Manual Brew,Large,32,15000,480000
+2025-07-24,Arabika Aceh Gayo,Milk-Based,Medium,19,20000,380000
+2025-07-04,Kopi Tubruk,Milk-Based,Medium,12,22000,264000
+2025-07-02,Robusta Bali,Espresso,Large,39,22000,858000
+2025-07-16,Arabika Aceh Gayo,Milk-Based,Small,21,20000,420000
+2025-07-30,Robusta Lampung,Kopi Susu,Medium,49,22000,1078000
+2025-07-12,Robusta Lampung,Cold,Medium,25,25000,625000
+2025-07-02,Robusta Bali,Kopi Susu,Large,45,25000,1125000
+2025-07-05,Arabika Aceh Gayo,Cold,Small,39,18000,702000
+2025-07-03,Cappuccino,Manual Brew,Small,53,20000,1060000
+2025-07-10,Arabika Aceh Gayo,Kopi Susu,Large,13,20000,260000
+2025-07-27,Kopi Susu Gula Aren,Tubruk,Medium,48,12000,576000
+2025-07-29,Arabika Aceh Gayo,Tubruk,Medium,27,15000,405000
+2025-07-24,Robusta Bali,Milk-Based,Small,46,22000,1012000
+2025-07-11,Cappuccino,Kopi Susu,Large,36,25000,900000
+2025-07-29,Kopi Latte,Tubruk,Small,47,20000,940000
+2025-07-09,Robusta Bali,Milk-Based,Medium,25,15000,375000
+2025-07-16,Kopi Latte,Tubruk,Medium,58,22000,1276000
+2025-07-30,Kopi Espresso,Espresso,Medium,51,18000,918000
+2025-07-04,Cappuccino,Milk-Based,Large,55,12000,660000
+2025-07-17,Kopi Tubruk,Espresso,Large,10,15000,150000
+2025-07-30,Cold Brew,Cold,Small,14,22000,308000
+2025-07-18,Robusta Lampung,Milk-Based,Large,10,22000,220000
+2025-07-15,Arabika Toraja,Espresso,Large,57,20000,1140000
+2025-07-13,Kopi Susu Gula Aren,Milk-Based,Medium,36,12000,432000
+2025-07-21,Kopi Tubruk,Manual Brew,Medium,38,22000,836000
+2025-07-02,Arabika Aceh Gayo,Kopi Susu,Medium,29,12000,348000
+2025-07-20,Cappuccino,Milk-Based,Large,33,25000,825000
+2025-07-03,Kopi Latte,Kopi Susu,Small,27,18000,486000
+2025-07-08,Kopi Latte,Espresso,Large,23,20000,460000
+2025-07-02,Arabika Toraja,Manual Brew,Medium,12,15000,180000
+2025-07-11,Robusta Bali,Manual Brew,Large,19,12000,228000
+2025-07-05,Kopi Tubruk,Espresso,Small,23,12000,276000
+2025-07-14,Robusta Bali,Milk-Based,Medium,47,18000,846000
+2025-07-10,Kopi Tubruk,Manual Brew,Small,57,18000,1026000
+2025-07-08,Cold Brew,Milk-Based,Small,40,22000,880000
+2025-07-18,Cold Brew,Kopi Susu,Large,28,25000,700000
+2025-07-29,Kopi Latte,Espresso,Large,60,15000,900000
+2025-07-02,Robusta Lampung,Tubruk,Small,19,15000,285000
+2025-07-27,Arabika Aceh Gayo,Kopi Susu,Small,14,22000,308000
+2025-07-17,Kopi Tubruk,Milk-Based,Medium,35,15000,525000
+2025-07-30,Robusta Lampung,Manual Brew,Large,17,18000,306000
+2025-07-03,Robusta Bali,Espresso,Medium,18,20000,360000
+2025-07-16,Kopi Susu Gula Aren,Tubruk,Small,33,15000,495000
+2025-07-06,Kopi Tubruk,Manual Brew,Large,43,20000,860000
